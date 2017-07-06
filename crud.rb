@@ -24,9 +24,8 @@ end
 
 # Book list
 list_books = {
-    :java   => 5,
-    :php    => 6,
-    :ruby   => 10
+    :java   => 9,
+    :php    => 9,
 }
 
 # Start Program
